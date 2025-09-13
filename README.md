@@ -1,16 +1,24 @@
-# motivate_daily
+# 🌟 InspireMe – Daily Motivation App
 
-A new Flutter project.
+**InspireMe** is a Flutter app that delivers **daily motivation** by showing random inspirational quotes.  
+Enjoy beautiful animations, dark/light themes, favorite quotes, sound effects, and easy sharing!  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🎯 Fetch random motivational quotes from **ZenQuotes API**  
+- 💫 Smooth **fade & scale animations** when quotes change  
+- 🌙 **Dark/Light theme toggle** for comfortable reading  
+- ❤️ **Add/remove favorites** and view them in a separate screen  
+- 🔔 Plays a short **chime sound** on new quote  
+- 📤 **Share quotes** via social apps  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Run
+
+1. **Clone the repo**:
+
+```bash
+git clone https://github.com/shahkhalid1676/motivate_daily.git
